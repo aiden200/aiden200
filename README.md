@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Aiden Chang [Website](https://www.aidenwchang.com/)
+### Hi there 👋, I'm Aiden Chang. Here's my [website!](https://www.aidenwchang.com/)
 
 
 
