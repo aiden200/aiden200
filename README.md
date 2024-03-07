@@ -8,7 +8,7 @@
 📫 How to reach me:
 - 📧 Email: [aidenchang@gmail.com](mailto:aidenchang@gmail.com)
 - <a href="https://www.linkedin.com/in/aiden-chang-97438019b/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="18" height="18"/></a> [LinkedIn:](https://www.linkedin.com/in/aiden-chang-97438019b/)
-- 🖥️ GitHub: You're here!
+- 🖥️ Medium: [aidenchang](https://medium.com/@aidenchang) 
 - ⚡ Fun fact: I've lived in three different countries!
 
 ## Toolset
