@@ -8,7 +8,7 @@
 - 📧 Email: [aidenchang@gmail.com](mailto:aidenchang@gmail.com)
 - <a href="https://www.linkedin.com/in/aiden-chang-97438019b/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="18" height="18"/></a> Linkedin: [Aiden Chang](https://www.linkedin.com/in/aiden-chang-97438019b/)
 - 🖥️ Medium: [aidenchang](https://medium.com/@aidenchang) 
-- ⚡ Fun fact: I've lived in three different countries!
+- ⚡ Fun fact: I've lived in three different countries & was ranked 47th in the nation for freestyle skiing!
 
 ## Toolset
 
