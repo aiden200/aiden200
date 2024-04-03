@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently an: Artificial Intelligence Engineer
+- 🔭 I’m currently a: Graduate Student at the University of Southern California!
 - 🌱 I’m currently learning: ML research - CV, Multimodal LLMs, Recommendation Systems.
 - 💬 Ask me about: Multimodal LLMs!
 - 📧 Email: [aidenchang@gmail.com](mailto:aidenchang@gmail.com)
