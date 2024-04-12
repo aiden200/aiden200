@@ -22,7 +22,7 @@
 <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
 <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg" width="40" height="40"/></a>
 
-[![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiden200)](https://github.com/anuraghazra/github-readme-stats)
+[![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiden200&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=aiden200)
 
