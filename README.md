@@ -24,6 +24,8 @@
 
 ![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiden200&theme=dark)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aiden200&layout=compact&theme=onedark&count_private=true)
+
 ![](https://komarev.com/ghpvc/?username=aiden200)
 
 
