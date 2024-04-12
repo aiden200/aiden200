@@ -10,6 +10,8 @@
 - 🖥️ Medium: [aidenchang](https://medium.com/@aidenchang) 
 - ⚡ Fun fact: I've lived in three different countries & was ranked 47th in the nation for freestyle skiing!
 
+![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiden200&theme=dark)
+
 ## Toolset
 
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
@@ -21,8 +23,6 @@
 <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
 <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
 <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg" width="40" height="40"/></a>
-
-![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiden200&theme=dark)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aiden200&layout=compact&theme=onedark&count_private=true)
 
