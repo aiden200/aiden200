@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Aiden Chang. Here's my [website!](https://www.aidenwchang.com/)</h1>
+<h1 align="center">Hi there 👋, I'm Aiden Chang</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=AI%2FML+Engineer"/></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&lines=AI%2FML+Engineer"/></a>
 </p>
 
-
+- Here is my [website!](https://www.aidenwchang.com/)
 - 🔭 I’m currently a: Graduate Student at the University of Southern California!
 - 🌱 I’m currently learning: ML research - CV, Multimodal LLMs, Recommendation Systems.
 - 💬 Ask me about: Multimodal LLMs!
