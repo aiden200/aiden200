@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Aiden Chang. Here's my [website!](https://www.aidenwchang.com/)
+<h1 align="center">Hi there 👋, I'm Aiden Chang. Here's my [website!](https://www.aidenwchang.com/)</h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=AI%2FML+Engineer"/></a>
