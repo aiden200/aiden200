@@ -5,7 +5,7 @@
 - Here is my [website!](https://www.aidenwchang.com/)
 - 🔭 I’m currently a: Graduate Student at the University of Southern California!
 - 🌱 I’m currently learning: ML research - 3D CV, Multimodal LLMs, Robotics.
-- <img src="https://github.com/user-attachments/assets/a9bbd643-4fd9-4e55-9852-bb6afbc8eaa8" alt="NVIDIA Logo" width="20"/> I'll be joining NVIDIA as a Solution Architect this fall!
+- <img src="https://github.com/user-attachments/assets/a9bbd643-4fd9-4e55-9852-bb6afbc8eaa8" alt="NVIDIA Logo" width="18" height="18"/> I'll be joining NVIDIA as a Solution Architect this fall!
 - 💬 Ask me about: Multimodal LLMs!
 - 📧 Email: [aidenchang@gmail.com](mailto:aidenchang@gmail.com)
 - <a href="https://www.linkedin.com/in/aiden-chang-97438019b/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="18" height="18"/></a> Linkedin: [Aiden Chang](https://www.linkedin.com/in/aiden-chang-97438019b/)
