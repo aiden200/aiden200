@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Aiden</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=AI%2FML+Engineer)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=AI%2FML+Engineer)
 
 - Here is my [website!](https://www.aidenwchang.com/)
 - 🔭 I’m currently a: Graduate Student at the University of Southern California.
