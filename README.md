@@ -4,12 +4,10 @@
 
 - Here is my [website!](https://www.aidenwchang.com/)
 - 🔭 I’m currently a: Graduate Student at the University of Southern California.
-- <img src="https://github.com/user-attachments/assets/a9bbd643-4fd9-4e55-9852-bb6afbc8eaa8" alt="NVIDIA Logo" width="18" height="18"/> I'll be joining NVIDIA this fall!
-- 🌱 I’m currently learning: ML research - 3D CV, Multimodal LLMs, Robotics.
+- 🌱  My work spans multimodal LLMs, Intelligent Embodied Agents, Responsible AI, and Robotics. 
 - 📧 Email: [aidenchang@gmail.com](mailto:aidenchang@gmail.com)
 - <a href="https://www.linkedin.com/in/aiden-chang-97438019b/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="18" height="18"/></a> Linkedin: [Aiden Chang](https://www.linkedin.com/in/aiden-chang-97438019b/)
 - 🖥️ Medium: [aidenchang](https://medium.com/@aidenchang) 
-- ⚡ Fun fact: I've lived in three different countries & was ranked 47th in the nation for freestyle skiing!
 
 ![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiden200&theme=dark)
 
