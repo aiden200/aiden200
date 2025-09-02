@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=AI%2FML+Engineer)
 
 - Here is my [website!](https://www.aidenwchang.com/)
-- 🔭 I’m currently a: Graduate Student at the University of Southern California.
+- 🔭 I’m currently a: Solutions Architect at NVIDIA.
 - 🌱  My work spans multimodal LLMs, Intelligent Embodied Agents, Responsible AI, and Robotics. 
 - 📧 Email: [aidenchang@gmail.com](mailto:aidenchang@gmail.com)
 - <a href="https://www.linkedin.com/in/aiden-chang-97438019b/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="18" height="18"/></a> Linkedin: [Aiden Chang](https://www.linkedin.com/in/aiden-chang-97438019b/)
